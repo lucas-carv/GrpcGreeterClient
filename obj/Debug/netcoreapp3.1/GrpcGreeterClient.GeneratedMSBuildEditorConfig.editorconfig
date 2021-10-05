@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GrpcGreeterClient
+build_property.ProjectDir = C:\dev\aulas\GrpcGreeterClient\GrpcGreeterClient\
